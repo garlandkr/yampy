@@ -1,0 +1,5 @@
+=== Python 2.4 ===
+If you are using 2.5.x just be aware of the differences, some modules may not work as I have not yet tested things in 2.5
+
+=== Pylons 0.9.5 ===
+Pylons is set to release 0.9.6 final soon, I have done some testing in 0.9.6rc3 and will update the code soon enough. I am aware of the changes and have other projects running in 0.9.6

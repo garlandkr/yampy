@@ -1,0 +1,5 @@
+### Python 2.4 ###
+If you are using 2.5.x just be aware of the differences, some modules may not work as I have not yet tested things in 2.5
+
+### Pylons 0.9.6 ###
+If you are using 0.9.5 please upgrade. This will not work properly in 0.9.5
